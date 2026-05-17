@@ -2,7 +2,7 @@
 
 A data science project analyzing Adidas US sales data (2020–2021) covering exploratory data analysis, statistical hypothesis testing, and machine learning prediction of total sales.
 
----
+----
 
 ## 📊 Dataset
 
